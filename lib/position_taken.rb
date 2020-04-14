@@ -6,3 +6,5 @@ def position_taken?(board, index)
     then TRUE
   end
 end
+
+# additional code to push it back to github
